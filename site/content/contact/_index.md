@@ -1,11 +1,15 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: |-
+      10400 Macleod Trail SE
+      Calgary, Alberta T2J 0P8
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: |-
+      Monday – Friday: 11AM – 9PM
+      Saturday - Sunday: 10AM - 9PM
 ---
 
 We’d love to get in touch with you and hear your ideas and
